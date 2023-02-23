@@ -144,6 +144,15 @@ const App = () => {
               </View>
             </View>
           </ScrollView>
+          <View>
+            <Text>Director</Text>
+            <Text>Christopher Nolan</Text>
+
+            <Text>Writers</Text>
+            <Text>
+              Johnatan Nolan (written by) ans Christopher Nolan (written by)
+            </Text>
+          </View>
         </View>
       </View>
     </View>
